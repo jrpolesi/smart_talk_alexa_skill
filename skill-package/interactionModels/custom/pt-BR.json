@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "smart talk",
+      "invocationName": "papo cabeça",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
